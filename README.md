@@ -67,7 +67,7 @@ A demo of haptic feedback, Developed using Flutter and haptic-feedback package.
 
 ### Built With
 
-* [![Flutter][Flutter]][Flutter-url]
+[![Flutter][Flutter]][Flutter-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
